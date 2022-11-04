@@ -11,9 +11,9 @@ nltk \
 string \
 collections \
 random 
-## Running the programs:
-To execute the programs from the command shell, do the following steps: \
-1. Change the directory to this folder in your system. \
+## Running the program:
+To execute the programs from the command shell, do the following steps: 
+1. Change the directory to this folder in your system. 
 2. To now execute the programs, type the following after the prompt appears: \
 			<div align="center"> python \<filename\>.py \
 	
