@@ -13,10 +13,11 @@ collections \
 random 
 ## Running the programs:
 To execute the programs from the command shell, do the following steps: \
-		1. Change the directory to this folder in your system. \
-		2. To now execute the programs, type the following after the prompt appears: \
+1. Change the directory to this folder in your system. \
+2. To now execute the programs, type the following after the prompt appears: \
 			<div align="center"> python \<filename\>.py \
-    3. This program uses *text2* from *nltk.book* as the corpus,  which can be imported using the following statement: \
+	
+3. This program uses *text2* from *nltk.book* as the corpus,  which can be imported using the following statement: \
 				<div align="center"> from nltk.book import * \
 				<div align="center"> or \
 				<div align="center"> from nltk.book import text2 \
